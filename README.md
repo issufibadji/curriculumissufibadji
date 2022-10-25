@@ -22,7 +22,7 @@
    <img alt="GitHub" src="https://img.shields.io/github/license/issufibadji/deliverfood?style=flat-square">
 </p>
 
-![deliverfood](https://github.com/issufibadji/deliverfood/blob/master/assets/deliverfood.png)
+![deliverfood](https://github.com/issufibadji/curriculumissufibadji/blob/master/assets/img/curriculum.png)
 
 ## :book: Sobre
 O **goodfood**
@@ -30,7 +30,7 @@ O **goodfood**
 
 ## :cloud: Deploy
 O projeto está hospedado no Github Pages
->https://issufibadji.github.io/deliverfood/
+>https://issufibadji.github.io/curriculumissufibadji/
 
 ## :rocket: Tecnologias
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
