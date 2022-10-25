@@ -26,7 +26,7 @@
 ## :book: Sobre
 
 O **curriculumvitaeissufibadji**
-é um Projeto referente a meu curriculum vitae.
+é um Projeto referente ao meu curriculum vitae.
 
 ## :cloud: Deploy
 
